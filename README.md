@@ -1,27 +1,28 @@
-<!-- HERO BANNER -->
+<!-- HERO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070f,100:111827&text=Welcome&fontColor=ffffff&fontSize=64&fontAlign=50&fontAlignY=42&desc=Build.%20Ship.%20Repeat.&descAlign=50&descAlignY=66"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070f,100:111827&text=Welcome&fontColor=ffffff&fontSize=64&fontAlign=50&fontAlignY=42&desc=Building.%20Shipping.%20Learning.&descAlign=50&descAlignY=66"
     alt="Welcome banner"
   />
 </p>
 
-<!-- LIVE TYPE -->
+<!-- TYPING INTRO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=9CA3AF&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub.;I+build+clean+products+and+ship+fast.;Explore+my+repos+and+see+what+I'm+working+on."
-    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=9CA3AF&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub.;I+build+projects+and+ship+ideas.;Scroll+down+and+explore."
+    alt="Typing animation"
   />
 </p>
 
-<!-- BADGES -->
+<!-- MOVING SNAKE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Welcome-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-High%20UI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Shipping-111827?style=for-the-badge" />
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
 </p>
 
-<!-- GLASS CARD UI -->
+<!-- BIO CARD -->
 <div align="center">
 
 ```txt
@@ -31,8 +32,8 @@
 ║                                                              ║
 ║  This is where I build, test, and ship projects.             ║
 ║                                                              ║
-║  To get in touch: go back to my bio and click the link.      ║
+║  To get in touch, go back to my bio and click the link.      ║
 ║                                                              ║
-║  Want the best stuff? Check my pinned repos first.           ║
+║  Check out my pinned repos for my best work.                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
