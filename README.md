@@ -1,7 +1,9 @@
-<!-- LIVE ACTIVITY GRAPH -->
+<!-- FEATURED REPOS -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codebytaaron&theme=github-dark&hide_border=true&radius=8"
-    alt="GitHub activity graph"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaaron&repo=snake-game&theme=transparent"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=codebytaaron&repo=AI-Resume-Analyzer&theme=transparent"
   />
 </p>
